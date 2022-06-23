@@ -1,1 +1,1 @@
-# Zuri-JavaScript_Introduction
+# Zuri - Introduction to JavaScript task
