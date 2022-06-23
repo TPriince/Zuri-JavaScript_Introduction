@@ -1,3 +1,1 @@
-alert("Name - Tobiloba Odukoya")
-alert("Height - 5ft. 7in")
-alert("Country - Nigeria")
+alert("Name - Tobiloba Odukoya\nHeight - 5ft. 7in\nCountry - Nigeria")
